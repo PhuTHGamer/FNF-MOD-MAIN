@@ -1,2 +1,2 @@
 # FNF-MOD-MAIN
-- MIDI COVER
+- MIDI COVER Accuracy 100%
